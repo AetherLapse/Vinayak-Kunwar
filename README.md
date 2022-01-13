@@ -11,7 +11,7 @@
  
 > ### My Experience in Programming
  
- 1. HTML <progress min=0 max=100 value=90></progress>
+ 1. HTML ![Progress 90](https://progress-bar.dev/90)
  2.  CSS
  3.  JS
  4.  PHP
