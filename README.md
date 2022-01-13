@@ -12,29 +12,20 @@
  
  
 > ### My Experience in Programming
- 
+ | Language | Progress |
+  | ------ | ----------------------------------------- |
  |1. HTML |![Progress 90](https://progress-bar.dev/90)|
- | ------ | ----------------------------------------- |
  |2.  CSS |![Progress 90](https://progress-bar.dev/60)|
- | ------ | ----------------------------------------- |
  |3.  JS  |![Progress 90](https://progress-bar.dev/45)|
- | ------ | ----------------------------------------- |
  |4.  PHP |![Progress 90](https://progress-bar.dev/30)|
- | ------ | ----------------------------------------- |
  |5.  Python |![Progress 90](https://progress-bar.dev/50)|
- | ------ | ----------------------------------------- |
  |6.  Tailwind CSS |![Progress 90](https://progress-bar.dev/10)|
- | ------ | ----------------------------------------- |
  |7.  Angular |![Progress 90](https://progress-bar.dev/20)|
- | ------ | ----------------------------------------- |
  |8.  React |![Progress 90](https://progress-bar.dev/30)|
- | ------ | ----------------------------------------- |
  |9.  Wordpress |![Progress 90](https://progress-bar.dev/100)|
- | ------ | ----------------------------------------- |
  |10. Hosting |![Progress 90](https://progress-bar.dev/100)|
- | ------ | ----------------------------------------- |
  |11. Node.js |![Progress 90](https://progress-bar.dev/65)|
- | ------ | ----------------------------------------- |
+
 
  
  
