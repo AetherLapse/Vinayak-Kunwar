@@ -1,6 +1,8 @@
 ># Welcome to Vinayak's Profile  ![smile](https://github.githubassets.com/images/icons/emoji/unicode/1f604.png)
 >## What can you find here![question](https://github.githubassets.com/images/icons/emoji/unicode/2753.png)
 
+![My Channel Art](/Images/channel4_banner.jpg)
+
  1. Subscribe My Youtube Channel [Here](https://youtube.com/c/AetherLapse)
  2. Follow me on Instagram [Here](https://www.instagram.com/aetherlapse/)
  3.  Follow me on Twitter [Here](https://twitter.com/aether_lapse)
